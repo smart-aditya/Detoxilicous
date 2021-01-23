@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.detoxilicious.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1611403503|CuaMc1Y1R3gt
+www.detoxilicious.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.detoxilicious.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=as1"
+
